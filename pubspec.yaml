@@ -1,0 +1,18 @@
+name: streamlike
+description: >-
+  Client Dart de la plateforme vidéo Streamlike : webservices de lecture,
+  URL du player, protections, audience et résolution des flux. Pur Dart —
+  utilisable en Flutter (web, iOS, Android) comme dans un backend Dart.
+version: 0.1.0
+publish_to: none
+repository: https://github.com/guillaume-scripteurist/streamlike-dart
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
